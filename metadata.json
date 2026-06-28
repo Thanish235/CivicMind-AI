@@ -1,0 +1,6 @@
+{
+  "name": "CivicMind India",
+  "description": "An AI-powered hyperlocal civic problem solver platform that helps Indian citizens report local issues, analyze urgency, and draft complaints to municipal authorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
